@@ -49,17 +49,12 @@ This project was developed as part of an international exchange program between 
 Since each participant worked individually on this project, we each possess our own complete set of components including the custom PCBs, 3D printed designs, and fully functional heart simulator. This individual ownership opens up exciting possibilities for continued development and exploration.
 
 ### Real-Time Heart Beat Integration
-One of the most exciting and viable areas for future development is connecting the LED heart simulation to actual real-time heart beats. This would create a direct visual representation of your actual heart rhythm, allowing you to see the difference between simulated and real heart beats through the LED patterns. This integration could be achieved through several practical approaches:
+One of the most exciting and viable areas that I am interested in exploring in future development is connecting the LED heart simulation to actual real-time heart beats. I believe that this would create a direct visual representation of your actual heart rhythm, allowing you to see the difference between simulated and real heart beats through the LED patterns. This integration could be achieved through several practical approaches:
 
 #### Wearable Device Integration
 - **Smartwatch/Activity Tracker**: Connect to devices like Apple Watch, Fitbit, or Garmin through Bluetooth Low Energy (BLE) to read real-time heart rate data and sync it directly to the LED heart
 - **Chest Strap Monitors**: Interface with professional heart rate monitors used in sports and medical applications for high-accuracy heart rate data
 - **Smartphone Apps**: Utilize phone-based heart rate monitoring through camera and flash technology, making it accessible to anyone with a smartphone
-
-#### Medical Device Connectivity
-- **ECG Monitors**: Interface with portable ECG devices for more detailed cardiac rhythm analysis and real-time heart beat visualization
-- **Pulse Oximeters**: Connect to oxygen saturation monitors that also provide heart rate data for comprehensive health monitoring
-- **Hospital Equipment**: Potential integration with clinical monitoring systems for educational demonstrations and medical training
 
 #### Advanced Features and Applications
 - **Real-Time Visualization**: LED patterns that directly mirror actual heart rhythm variations, creating a living, breathing heart display
@@ -93,12 +88,6 @@ The heart simulator's compact design, low power consumption, and robust construc
 - **Stress Response**: Track physiological responses to space environment stressors and mission events
 - **Preventive Medicine**: Early detection of cardiovascular changes that could affect mission safety
 
-#### **Space Station Integration**
-- **ISS Medical Equipment**: Integrate with International Space Station's health monitoring systems
-- **Real-Time Telemedicine**: Enable ground-based medical teams to monitor astronaut heart health remotely
-- **Emergency Response**: Provide immediate visual alerts for cardiac events during space operations
-- **Data Collection**: Contribute to NASA's extensive database on human physiology in space
-
 #### **Deep Space Exploration**
 - **Mars Mission Readiness**: Test cardiovascular monitoring systems for future Mars missions
 - **Autonomous Operation**: Develop self-contained monitoring systems for missions with limited ground support
@@ -112,19 +101,10 @@ The heart simulator's compact design, low power consumption, and robust construc
 - **International Collaboration**: Partner with space agencies worldwide for collaborative AI/ML research in space medicine
 - **Educational Outreach**: Inspire future generations through space-based biomedical research with AI integration
 
-#### **Technical Adaptations for Space**
-- **Radiation Hardening**: Modify components to withstand cosmic radiation and solar particle events
-- **Thermal Management**: Adapt for extreme temperature variations in space
-- **Power Optimization**: Minimize energy consumption for long-duration missions
-- **Redundancy Systems**: Implement backup systems for critical health monitoring functions
-- **Space-Grade Materials**: Use materials certified for space applications
-
 This project serves as an excellent foundation for continued innovation in biomedical engineering, combining hardware design, software development, and real-world medical applications.
 
 ## Acknowledgments
 - **ULACIT**: For the international exchange opportunity
-- **Rice University**: For hosting and providing world-class facilities
+- **Rice University**: For hosting and providing world-class facilities and the knowledge.
 - **OEDK Staff**: For guidance and support during the project
-- **Faculty Mentors**: From both institutions for academic supervision
-
 ---
