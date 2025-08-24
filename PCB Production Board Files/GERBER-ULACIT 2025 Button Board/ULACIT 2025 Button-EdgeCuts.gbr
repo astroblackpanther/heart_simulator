@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.5*%
+%TF.CreationDate,2025-05-30T10:51:23-05:00*%
+%TF.ProjectId,ULACIT 2025 Button,554c4143-4954-4203-9230-323520427574,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.5) date 2025-05-30 10:51:23*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X22860000Y-26670000D02*
+X83159600Y-26670000D01*
+X83159600Y-47955200D01*
+X22860000Y-47955200D01*
+X22860000Y-26670000D01*
+M02*
