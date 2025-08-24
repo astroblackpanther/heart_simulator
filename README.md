@@ -40,8 +40,6 @@ Contains STL files for 3D printed components of the heart simulator, including t
 - **GERBER-ULACIT 2025 Main Board**: Manufacturing files for the main control board
 - Includes `.gbr` (GERBER), `.drl` (drill), and `.pdf` files for PCB production
 
-
-
 ## Academic Collaboration
 This project was developed as part of an international exchange program between ULACIT (Universidad Latinoamericana de Ciencia y Tecnología) and Rice University's George R. Brown School of Engineering and Computing, completed at the Oshman Engineering Design Kitchen (OEDK).
 
